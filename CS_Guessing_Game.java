@@ -1,5 +1,5 @@
 /*programmer: Charanvir Singh
-Class: CS 144
+Class: CS 145
 Date 01/10/2022
 Assignment Lab 1 Guessing Game
 Propose - this code will generate a number that the user will try to guess
